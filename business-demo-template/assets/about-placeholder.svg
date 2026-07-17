@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" role="img" aria-labelledby="title desc">
+<title id="title">Replace with an authentic business photo</title>
+<desc id="desc">Suggested: owner, team, vehicle, equipment, or work in progress</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#203d35"/>
+    <stop offset="1" stop-color="#769b8c"/>
+  </linearGradient>
+  <radialGradient id="r" cx="0.8" cy="0.2" r="0.7">
+    <stop offset="0" stop-color="#d8a53d" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#d8a53d" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1000" height="1200" fill="url(#g)"/>
+<rect width="1000" height="1200" fill="url(#r)"/>
+<g fill="none" stroke="#fff" stroke-opacity=".16" stroke-width="2">
+  <path d="M0 840 Q 250 540 500 840 T 1000 780"/>
+  <path d="M0 960 Q 250 660 500 960 T 1000 900"/>
+</g>
+<g transform="translate(80 864)">
+  <rect width="480" height="180" rx="18" fill="#07140f" fill-opacity=".42"/>
+  <text x="25" y="78" fill="#fff" font-family="Arial, sans-serif" font-size="48" font-weight="700">Replace with an authentic business photo</text>
+  <text x="25" y="138" fill="#fff" fill-opacity=".72" font-family="Arial, sans-serif" font-size="29">Suggested: owner, team, vehicle, equipment, or work in progress</text>
+</g>
+</svg>

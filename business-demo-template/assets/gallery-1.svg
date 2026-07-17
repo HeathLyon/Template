@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title id="title">Project photo one</title>
+<desc id="desc">Use a strong before-and-after or finished project image</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#173c31"/>
+    <stop offset="1" stop-color="#5a8875"/>
+  </linearGradient>
+  <radialGradient id="r" cx="0.8" cy="0.2" r="0.7">
+    <stop offset="0" stop-color="#d8a53d" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#d8a53d" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="900" fill="url(#g)"/>
+<rect width="1200" height="900" fill="url(#r)"/>
+<g fill="none" stroke="#fff" stroke-opacity=".16" stroke-width="2">
+  <path d="M0 630 Q 300 405 600 630 T 1200 585"/>
+  <path d="M0 720 Q 300 495 600 720 T 1200 675"/>
+</g>
+<g transform="translate(96 648)">
+  <rect width="576" height="135" rx="18" fill="#07140f" fill-opacity=".42"/>
+  <text x="30" y="58" fill="#fff" font-family="Arial, sans-serif" font-size="36" font-weight="700">Project photo one</text>
+  <text x="30" y="104" fill="#fff" fill-opacity=".72" font-family="Arial, sans-serif" font-size="22">Use a strong before-and-after or finished project image</text>
+</g>
+</svg>
